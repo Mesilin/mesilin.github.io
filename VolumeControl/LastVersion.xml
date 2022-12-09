@@ -3,6 +3,11 @@
 <major>3</major>
 <minor>2</minor>
 <build>1</build>
+  <note>
+    some description line 1
+    some description line 2
+    some description line 3
+  </note>
 </LastVersion>
 <path>https://leochapiro.de/data/TestApp.exe</path>
 </VolumeControl>
